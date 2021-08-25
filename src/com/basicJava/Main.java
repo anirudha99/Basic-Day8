@@ -17,7 +17,10 @@ public class Main {
 		//EvenOdd.evenOdd();
 		//VowelConsonant.vowelCons();
 		//LargestThree.largestNum();
-		TwoD_Array.twoDArray();
+		//TwoD_Array.twoDArray();
+		//Distance.distance(args);
+		//Quadratic.quadratic();
+		WindChill.windChill(args);
 
 	}
 
