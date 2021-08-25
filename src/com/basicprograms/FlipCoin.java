@@ -27,11 +27,11 @@ public class FlipCoin {
 				heads++;
 			
 		}
-		double headperc = (heads/n)*100;
-		double tailperc = (tails/n)*100;
+		double headpercent = (heads/n)*100;
+		double tailpercent = (tails/n)*100;
 		
-		System.out.println("Percentage of heads : "+headperc+"%");
-		System.out.println("Percentage of tails : "+tailperc+"%");
+		System.out.println("Percentage of heads : "+headpercent+"%");
+		System.out.println("Percentage of tails : "+tailpercent+"%");
 	}
 
 }
