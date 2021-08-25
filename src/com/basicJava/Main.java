@@ -21,7 +21,7 @@ public class Main {
 		//Distance.distance(args);
 		//Quadratic.quadratic();
 		//WindChill.windChill(args);
-		
+		SumZero.triplets();
 
 	}
 
