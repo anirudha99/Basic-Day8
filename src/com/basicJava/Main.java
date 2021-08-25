@@ -20,7 +20,8 @@ public class Main {
 		//TwoD_Array.twoDArray();
 		//Distance.distance(args);
 		//Quadratic.quadratic();
-		WindChill.windChill(args);
+		//WindChill.windChill(args);
+		
 
 	}
 
