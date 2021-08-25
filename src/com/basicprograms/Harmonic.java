@@ -10,11 +10,11 @@ public class Harmonic {
 		sc.close();
 		
 		if(n<0) {
-			System.out.println("Enter n value greater than 0");
+			System.out.println("Enter 'n' value greater than 0");
 			System.exit(0);
 		}
 		
-		float sum = 0 ;
+		float sum = 0.0f;
 		
 		for(float i=1;i<=n;i++) {
 			sum+=(1/i);
